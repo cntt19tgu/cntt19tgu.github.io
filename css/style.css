@@ -1,0 +1,35 @@
+html {
+  scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+  height: 350px;
+  width: 1080px;
+  margin: auto;
+  background-color: FFFAFA;
+}
+.header img{
+  height: 350px;
+  width: 1000px;
+}
+
+.container h2{
+  text-align: center;
+  font-weight: bolder;
+}
+.container p{
+  text-align: center;
+}
+                                       /*NỘI DUNG*/
+  .container h2{
+    color: #004AAD;
+  }
